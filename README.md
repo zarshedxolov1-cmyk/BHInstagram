@@ -14,7 +14,7 @@ An awesome tweak for Instagram!
 - Remove screenshot alert
 - Unlimited replay of once story
 - Disable Story Seen Receipt
-- Padlock
+
 
 # TODO
 - [ ] Add Localization for the tweak.
