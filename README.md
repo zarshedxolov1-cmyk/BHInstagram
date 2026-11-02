@@ -1,4 +1,4 @@
-    # BHInstagram
+    # zkInstagram
 An awesome tweak for Instagram!
 
 # Features
